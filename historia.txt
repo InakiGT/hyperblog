@@ -2,4 +2,6 @@ Esta es una prueba para el curso de git que estoy tomando en Platzi.com
 
 Yo soy Iñaki García y tengo 19 años
 
+Me gusta la carne
+
 Esta es mi historia
