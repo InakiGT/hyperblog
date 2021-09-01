@@ -1,0 +1,7 @@
+Esta es una prueba para el curso de git que estoy tomando en Platzi.com
+
+Yo soy Iñaki García y tengo 20 años
+
+Me gusta la carne y los tacos
+
+Ésta es mi historia y resumen de vida.
